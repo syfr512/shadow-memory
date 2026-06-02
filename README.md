@@ -21,4 +21,4 @@ Ensure you have Python installed, then set up the required dependencies and run 
 pip install pygame
 
 # Run the game
-python shadow_memory_horror.py
+python shadow_memory.py
